@@ -7,16 +7,12 @@
 🐛 Professional bug creator.  
 ✨ Still learning. Still building.
 
-> "I don't know what I'm doing, but somehow it works." 😭
+
 
 ---
 
 <p align="center">
   <img src="assets/funny.gif" width="500">
-</p>
-
-<p align="center">
-  <i>Me looking at my code after it finally works...</i> 👁️👄👁️
 </p>
 
 <p align="center">
