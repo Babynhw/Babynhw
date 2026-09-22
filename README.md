@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.m1Bh5gV6NC4_yfjdzNvNVwHaD_?r=0&o=7&rm=3&rs=1&pid=ImgDetMain" width="500">
+  <img src="assets/funny.gif" width="500">
 </p>
 
 <p align="center">
