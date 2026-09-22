@@ -1,4 +1,4 @@
-## Hi 👋 I'm Như!
+## Hi 👋 I'm Nhu Tran!
 
 🌱 Just a tiny developer trying to build big things.
 
